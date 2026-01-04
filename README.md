@@ -35,19 +35,21 @@ __Procedure__ :
 
 __Example Output__ :
 
-Match Score: 68%
+Match Score: 32.50%
 
-Match Level: Moderate Match
+Match Level: Low Match
 
-Matching Skills: Python, Pandas, NumPy
+Skills Found in Resume: python, sql, machine learning, pandas
 
-Missing Skills: SQL, NLP, Machine Learning
+Skills Required in Job Description: python, sql, machine learning, nlp, data analysis, pandas, scikit-learn
 
-Suggestions:
+Missing Skills: nlp, data analysis, scikit-learn
 
-1. Add projects or experience relevant to the job description.
-   
-2. Add or highlight these skills in your resume: SQL, NLP, Machine Learning
+Improvement Suggestions: 
+
+1. Consider adding projects or experience relevant to the job description.
+2. Add or highlight these skills in your resume: nlp, data analysis, scikit-learn
+3. Consider improving sections like Education or Work Experience for clarity and detail.
 
 
 __Further Improvements__ :
